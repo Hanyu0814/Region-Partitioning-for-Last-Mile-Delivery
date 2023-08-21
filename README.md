@@ -3,7 +3,7 @@
 - Code supplement for the paper "[Provably Good Region Partitioning For On-time Last-mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915544)" by John Gunnar Carlsson, Sheng Liu, Nooshin Salari, and Han Yu.
 
 ## KEY DESIGN:
-- Optimal Region Partitioning Policy of two different measures (Delivery time and service time).
+- Optimal Region Partitioning Policy of two measures (Delivery time and service time).
   <img width="657" alt="Screen Shot 2023-08-21 at 10 44 13 AM" src="https://github.com/Hanyu0814/Region-Partitioning-for-Last-Mile-Delivery/assets/42761678/e42bce8f-b108-49f7-b27c-b0c361a4337e">
 
 
