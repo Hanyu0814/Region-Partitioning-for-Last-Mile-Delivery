@@ -1,6 +1,7 @@
 # Region-Partitioning-for-Last-Mile-Delivery
 ## INTRODUCTION:
 - Code supplement for the paper "[Provably Good Region Partitioning For On-time Last-mile Delivery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915544)" by John Gunnar Carlsson, Sheng Liu, Nooshin Salari, and Han Yu.
+- This paper is published on Operations Research.
 
 ## KEY DESIGN:
 - Optimal Region Partitioning Policy of two measures (Delivery time and service time).
